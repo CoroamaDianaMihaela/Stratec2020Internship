@@ -1,0 +1,1 @@
+# Stratec2020Internship
