@@ -4,9 +4,7 @@ This repository contains mine and Coroama Larisa's attempt at solving "The 2020 
 
 This software had the task of connecting dots in a matrix, there could be either two or more dots to conected between each other. One of the key restraints was that the connecting roads must not intersect with each other and there would always be at least one block separating them.
 
-This program was made in collaboration with Coroama Larisa-Gabriela
-
-The program has an interactive GUI in which each button represents a step in the problem. 
+This program was made in collaboration with Coroama Larisa-Gabriela and it has an interactive GUI where each button represents a step in the problem. 
 
 Step one outputs:
 <p align="center">
